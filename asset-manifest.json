@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diaganalmtest/static/css/main.3b4f3811.chunk.css",
+    "main.js": "/diaganalmtest/static/js/main.e1db8423.chunk.js",
+    "main.js.map": "/diaganalmtest/static/js/main.e1db8423.chunk.js.map",
+    "runtime~main.js": "/diaganalmtest/static/js/runtime~main.ae87c24e.js",
+    "runtime~main.js.map": "/diaganalmtest/static/js/runtime~main.ae87c24e.js.map",
+    "static/js/2.573f90b5.chunk.js": "/diaganalmtest/static/js/2.573f90b5.chunk.js",
+    "static/js/2.573f90b5.chunk.js.map": "/diaganalmtest/static/js/2.573f90b5.chunk.js.map",
+    "index.html": "/diaganalmtest/index.html",
+    "precache-manifest.e7b313d4ecf14d132708994f8f723a34.js": "/diaganalmtest/precache-manifest.e7b313d4ecf14d132708994f8f723a34.js",
+    "service-worker.js": "/diaganalmtest/service-worker.js",
+    "static/css/main.3b4f3811.chunk.css.map": "/diaganalmtest/static/css/main.3b4f3811.chunk.css.map"
+  }
+}
